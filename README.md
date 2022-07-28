@@ -57,6 +57,6 @@ obras/películas/documentales inscriptas en el certamen actual.</li>
 <h5>Como lo arme:</h5>
 <p>Para crear la api utilice Swagger, tambien aplique la separacion de los 
 entitys en Dto, entity y converter. Ademas el controller se separo en
-controller y service.
-Para mayor comodidad se utilizo H2 como BD y lombok para crear los 
-getter y setter de forma automatica.</p>
+controller y service.</p>
+<p>Para mayor comodidad se utilizo H2 como BD y lombok para crear los 
+getter y setter de forma automatica, ademas se utilizo Maven</p>
